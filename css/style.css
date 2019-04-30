@@ -1,0 +1,15 @@
+
+#code{height:90vh;overflow:auto;margin-top:10px;}
+#paper{height:90vh;overflow:hidden;margin-top: 10px;}
+#paper>.content{
+  overflow:auto;
+}
+.token.selector{
+  color:black;
+}
+.token.property{
+  color:black;
+}
+.token.function{
+  color:black;
+}
